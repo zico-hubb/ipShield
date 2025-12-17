@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+requests
+solana
+fuzzywuzzy
+python-Levenshtein
+scikit-learn
+firebase-admin

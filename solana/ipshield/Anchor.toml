@@ -1,0 +1,11 @@
+[programs.localnet]
+ipshield = "GsXiSpv8sdArgivKGfDSRcTkZSNXGWqYnVjD758CgApg"
+
+[registry]
+url = "http://localhost:8899"
+
+[provider]
+cluster = "localnet"
+wallet = "keypairs/deployer.json"
+
+[scripts]

@@ -1,0 +1,44 @@
+/* === SOLANA THEME GLOBALS === */
+
+body {
+  margin: 0;
+  background: #0A0A0B;
+  font-family: Arial, sans-serif;
+  color: #EAEAEA;
+}
+
+/* Links */
+a {
+  color: #14F195;
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+/* Buttons (default) */
+button {
+  padding: 12px 28px;
+  background: linear-gradient(135deg, #9945FF, #14F195);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: 0.2s ease;
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 20px rgba(153, 69, 255, 0.4);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body {
+  height: 100%;
+}

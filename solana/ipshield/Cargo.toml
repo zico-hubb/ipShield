@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "programs/ipshield"
+]
+
+[profile.release]
+overflow-checks = true
