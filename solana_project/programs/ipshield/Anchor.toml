@@ -1,0 +1,13 @@
+[programs.devnet]
+ipshield = "CZXpPk5ob9ohKbtxhXNHHcjViqpN5Xyph6X2MRrykFTf"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+

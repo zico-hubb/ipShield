@@ -1,0 +1,8 @@
+[programs.devnet]
+ipshield = "CZXpPk5ob9ohKbtxhXNHHcjViqpN5Xyph6X2MRrykFTf"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]

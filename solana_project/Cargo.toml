@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "programs/ipshield"
+]
+resolver = "2"
+
+[profile.release]
+overflow-checks = true
+
+[patch.crates-io]
+proc-macro2 = { git = "https://github.com/dtolnay/proc-macro2", tag = "1.0.94" }
