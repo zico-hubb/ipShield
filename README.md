@@ -1,4 +1,4 @@
-# ipShield 🛡️
+# ipShield 
 
 **Protect and monitor your intellectual property on-chain.**
 
@@ -6,7 +6,7 @@ ipShield is a full-stack web application designed to help content creators detec
 
 ---
 
-## 📺 Project Demo
+##  Project Demo
 
 **[Watch the ipShield Demo Video](https://youtu.be/_yzxHZ_lBXw?si=sl9z0x6eySBl_IE0)**
 
@@ -14,7 +14,7 @@ ipShield is a full-stack web application designed to help content creators detec
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 1. Content Upload & Registration
 * **Upload:** Creators can upload their original content securely.
@@ -46,25 +46,25 @@ ipShield is a full-stack web application designed to help content creators detec
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🎨 Frontend
+###  Frontend
 * **Framework:** Next.js, React
 * **Styling:** CSS / Tailwind (implied)
 
-### ⚙️ Backend
+###  Backend
 * **Language:** Python
 * **Framework:** Flask
 * **Utilities:** Flask-CORS, Requests
 
-### ⛓️ Blockchain
+###  Blockchain
 * **Network:** Solana (Devnet)
 * **Framework:** Anchor
 * **Storage:** IPFS
 
-### 🔍 Search & Analysis
+###  Search & Analysis
 * **Search API:** SerpAPI (Google Search)
 * **Text Analysis:** `fuzzywuzzy`, `scikit-learn` (TF-IDF + Cosine Similarity)
 
-### 🗄️ Database
+###  Database
 * **DB:** Firebase Firestore
